@@ -1,0 +1,11 @@
+{
+  "produtos": [
+    {
+      "nome": "Matheus ",
+      "categoria": "Deus",
+      "preco": "2",
+      "descricao": "Gostoso",
+      "id": 1
+    }
+  ]
+}
